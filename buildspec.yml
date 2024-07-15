@@ -14,7 +14,7 @@ phases:
 
  pre_build:
   commands:
-   - pip install -r /AWSCode_Build/requiremnts.txt
+   - pip install -r /AWSCode_Build/requirements.txt
  build: 
   commands:
    - cd /AWSCode_Build
